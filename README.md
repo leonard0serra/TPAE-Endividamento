@@ -1,2 +1,7 @@
 # TPAE-Endividamento
-Alunos: Leonardo Henrique Serra ; Luan Emanuel ; Kalani Gabrielle
+Alunos: 
+Leonardo Henrique Serra
+Luan Emanuel 
+Kalani Gabrielle
+
+
