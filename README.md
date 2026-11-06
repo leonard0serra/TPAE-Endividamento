@@ -17,6 +17,7 @@ Resumo abaixo; detalhes em [`docs/inventario_fontes.md`](docs/inventario_fontes.
 |------|-------------|-----------|---------|
 |  Abras/NielsenIQ e Banco Central) | https://www.abras.com.br/economia-e-pesquisa/monitoramento-semanal-nielseniq-e-abras/2026| Variações semanais de consumo de alimentos e queda de transações Pix citadas no documento.| |
 | Câmara dos Deputados|https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/175871|Notícia sobre a MP nº 1.394, de 25/09/2026, conforme documento.||
+|CNC / Portal do Comércio (Peic)|https://portaldocomercio.org.br/acoes-institucionais/cnc-inadimplencia-e-endividamento-das-familias-brasileiras-recuam-em-setembro/|Percentual de famílias endividadas e inadimplentes em setembro de 2026.||
 
 
 ## Estrutura do repositório
