@@ -8,7 +8,7 @@ Projeto aplicado de extensão – PSAE00320 Técnicas de Pesquisa e Análise Eco
 - Kalani Gabrielle
 
 ## Problema de pesquisa
-> *Analisar o endividamento da população paraibana e investigar sua relação com as apostas esportivas, avaliando, com base em dados, os possíveis impactos de uma proibição dessas plataformas, consoante demandas 8, 9 e 10 do COPOM*
+> *Analisar o endividamento da população paraibana e investigar sua relação com as apostas online, avaliando, com base em dados, os possíveis impactos da proibição dessas plataformas, consoante demandas 8, 9 e 10 do COPOM*
 
 ## Fontes de dados
 Resumo abaixo; detalhes em [`docs/inventario_fontes.md`](docs/inventario_fontes.md).
