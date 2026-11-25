@@ -46,4 +46,6 @@ Nunca versionar senhas, tokens, chaves, dados pessoais, documentos internos ou b
 Acompanhadas em *Issues* do GitHub, com responsável e prazo.
 
 ## Uso de IA
-Para a formatação do README, para a cunhagem do modelo apenas.
+- Para a formatação do README, para a cunhagem do modelo apenas
+- Para formatação adequada dos documentos, mas sem uso no conteúdo
+- Pesquisa de artigos 
