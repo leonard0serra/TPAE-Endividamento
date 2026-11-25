@@ -1,4 +1,4 @@
-# TPAE-Endividamento
+# TPAEII - Endividamento
 
 Projeto aplicado de extensão – PSAE00320 Técnicas de Pesquisa e Análise Econômica II (2026.2)
 
